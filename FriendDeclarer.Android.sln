@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendDeclarer.Android", "FriendDeclarer.Android\FriendDeclarer.Android.csproj", "{06F82D6F-5093-4FDD-9B16-4F06F7AAE385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendDeclarer.Android.UITests", "FriendDeclarer.Android.UITests\FriendDeclarer.Android.UITests.csproj", "{5DB47155-852C-43CA-B6F4-8A7BF9CCC121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F82D6F-5093-4FDD-9B16-4F06F7AAE385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F82D6F-5093-4FDD-9B16-4F06F7AAE385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F82D6F-5093-4FDD-9B16-4F06F7AAE385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F82D6F-5093-4FDD-9B16-4F06F7AAE385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB47155-852C-43CA-B6F4-8A7BF9CCC121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB47155-852C-43CA-B6F4-8A7BF9CCC121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB47155-852C-43CA-B6F4-8A7BF9CCC121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB47155-852C-43CA-B6F4-8A7BF9CCC121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

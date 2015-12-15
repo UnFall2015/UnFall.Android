@@ -1,0 +1,13 @@
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\FriendDeclarer.Android.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\Mono.Android.Export.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\PagerSlidingTabStrip.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\System.Core.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\System.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Pedro\Documents\Projects\FriendDeclarer.Android\FriendDeclarer.Android\obj\Debug\assemblies\System.ServiceModel.Internals.dll
